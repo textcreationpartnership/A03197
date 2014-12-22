@@ -32,9 +32,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The fayre mayde of the Exchange with the pleasant humours of the cripple of Fanchurch. Very delectab
+
+1. Eleauen may easily acte this Comedie.
+
+1. Prologue.
+
 #####Body#####
-The fayre mayde of the Exchange with the pleasant humours of the cripple of Fanchurch. Very delectab
+
+1. ¶ The faire Maide of the Exchange.
+
 **Types of content**
 
   * There are 2226 **verse** lines!
